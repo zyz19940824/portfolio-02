@@ -28,9 +28,13 @@ Make sure each visualization has all required details (i.e. a title, text descri
 
 In both cases, chart the **Close** price of the stock over time.
 
-Include a line which intersects with the highest closing price of the stock. Identify the purpose of this line with a label.
+You must also include:
 
-You are also required to include four points and labels indicating specific events. Please see information in the next section for details on which events to plot.
+- A line which intersects with the highest closing price of the stock. Identify the purpose of this line with a label.
+
+- Four points and labels indicating specific events. Please see information in the next section for details on which events to plot.
+
+- The beginning/end of the Obama administration. (You could indicate this with vertical lines at the respective dates or create a rectangle with a contrasting background.) Be sure to include labels depending on which approach you take.
 
 
 ### Data Sets
