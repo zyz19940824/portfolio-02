@@ -34,6 +34,8 @@ You must also include:
 
 - Four points and labels indicating specific events. Please see information in the next section for details on which events to plot.
 
+   *Tip:* `filter()` works differently with time values. You will need a start and end date and create a conditional which only returns the object for a single time. (With numbers, you can test with "equal to" to match a single numeric value. Time requires a range of date objects. )
+
 - The beginning/end of the Obama administration. (You could indicate this with vertical lines at the respective dates or create a rectangle with a contrasting background.) Be sure to include labels depending on which approach you take.
 
 
